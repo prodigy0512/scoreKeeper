@@ -1,2 +1,2 @@
 # Scorekeeper
-Just a score tracker for way too simple games.
+Just a score tracker for simple games.
